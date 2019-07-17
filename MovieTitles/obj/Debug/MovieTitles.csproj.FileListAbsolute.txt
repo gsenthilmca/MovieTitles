@@ -1,0 +1,10 @@
+c:\users\sent1476\source\repos\MovieTitles\MovieTitles\obj\Debug\MovieTitles.csprojAssemblyReference.cache
+c:\users\sent1476\source\repos\MovieTitles\MovieTitles\obj\Debug\MovieTitles.csproj.CoreCompileInputs.cache
+c:\users\sent1476\source\repos\MovieTitles\MovieTitles\bin\Debug\MovieTitles.exe.config
+c:\users\sent1476\source\repos\MovieTitles\MovieTitles\bin\Debug\MovieTitles.exe
+c:\users\sent1476\source\repos\MovieTitles\MovieTitles\bin\Debug\MovieTitles.pdb
+c:\users\sent1476\source\repos\MovieTitles\MovieTitles\bin\Debug\Newtonsoft.Json.dll
+c:\users\sent1476\source\repos\MovieTitles\MovieTitles\bin\Debug\Newtonsoft.Json.xml
+c:\users\sent1476\source\repos\MovieTitles\MovieTitles\obj\Debug\MovieTitles.csproj.CopyComplete
+c:\users\sent1476\source\repos\MovieTitles\MovieTitles\obj\Debug\MovieTitles.exe
+c:\users\sent1476\source\repos\MovieTitles\MovieTitles\obj\Debug\MovieTitles.pdb
